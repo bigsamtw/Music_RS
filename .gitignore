@@ -3,6 +3,8 @@ dataset/
 data/
 */dataset/
 */data/
+/uk/
+/all/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
